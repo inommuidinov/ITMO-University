@@ -1,2 +1,2 @@
 # ITMO-University
-My studies at this strange place
+Something from university
