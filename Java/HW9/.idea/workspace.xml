@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9bdda79f-a2d2-4496-b1af-f3c98b65ac04" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TqzM1q7CQxjn5TxAYgJPiQs2Qv" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/java/ticTacToe" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Md2HtmlUnderlineTest">
+    <configuration name="Md2Html" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2Html" />
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlMarkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlMarkTest" />
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlTest" />
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlUnderlineTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="md2html.Md2HtmlUnderlineTest" />
+      <module name="HW9" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="md2html.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Md2HtmlUnderlineTest.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/src/md2html/Md2HtmlUnderlineTest.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Md2HtmlUnderlineTest" />
+        <item itemvalue="Application.Md2HtmlMarkTest" />
+        <item itemvalue="Application.Md2HtmlTest" />
+        <item itemvalue="Application.Md2Html" />
+        <item itemvalue="JAR Application.Md2HtmlUnderlineTest.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9bdda79f-a2d2-4496-b1af-f3c98b65ac04" name="Default Changelist" comment="" />
+      <created>1574202361769</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574202361769</updated>
+      <workItem from="1574202365856" duration="3534000" />
+      <workItem from="1574246011708" duration="2127000" />
+      <workItem from="1574248418829" duration="2148000" />
+      <workItem from="1574840131554" duration="77000" />
+      <workItem from="1575407910563" duration="44000" />
+      <workItem from="1576633700966" duration="392000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
